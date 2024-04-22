@@ -3,7 +3,7 @@
  *
  *  Data Structures
  *  School of Computer Science 
- *  at Chungbuk National University
+ *  at Chungbuk National University.
  */
 
 
